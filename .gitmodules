@@ -1,0 +1,3 @@
+[submodule "jawhara"]
+	path = jawhara
+	url = https://github.com/mohzahir/jawhara
